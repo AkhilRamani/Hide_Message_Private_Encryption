@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="G:\ad tutorial\Hide Message\app\src\main\assets"><file name="fonts/bungeeregular.ttf" path="G:\ad tutorial\Hide Message\app\src\main\assets\fonts\bungeeregular.ttf"/></source><source path="G:\ad tutorial\Hide Message\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="G:\ad tutorial\Hide Message\app\src\debug\assets"/></dataSet></merger>

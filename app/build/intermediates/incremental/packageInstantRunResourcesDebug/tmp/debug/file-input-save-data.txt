@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Jun 19 22:53:32 IST 2018
+0.baseType=DIRECTORY
+0.base=G\:\\ad tutorial\\Hide Message\\app\\build\\intermediates\\assets\\debug
+0.path=fonts/bungeeregular.ttf
+0.set=ASSET
+count=1
