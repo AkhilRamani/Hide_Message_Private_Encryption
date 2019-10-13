@@ -147,10 +147,19 @@
 					android:id="@+id/textview14"
 					android:layout_width="wrap_content"
 					android:layout_height="wrap_content"
-					android:paddingBottom="8dp"
+					android:paddingBottom="10dp"
 					android:text="Also share your key with your trusted friend privately. So, he/she can decrypt your private message using your key."
 					android:textSize="16sp"
 					android:textColor="#666666"
+					/>
+				<TextView
+					android:id="@+id/privacy_policy"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:paddingBottom="10dp"
+					android:text="@string/Privacy_Policy"
+					android:textSize="18sp"
+					android:textColor="#3366BB"
 					/>
 			</LinearLayout>
 		</ScrollView>

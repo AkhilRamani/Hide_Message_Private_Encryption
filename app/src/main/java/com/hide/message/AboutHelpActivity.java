@@ -2,6 +2,7 @@ package com.hide.message;
 
 import android.app.*;
 import android.os.*;
+import android.text.method.LinkMovementMethod;
 import android.view.*;
 import android.view.View.*;
 import android.widget.*;
@@ -101,6 +102,10 @@ public class AboutHelpActivity extends Activity {
 						  }
 
 		);
+
+		TextView privacy= (TextView) findViewById(R.id.privacy_policy);
+		privacy.setMovementMethod(LinkMovementMethod.getInstance());
+
 	}
 
 

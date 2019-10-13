@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Jun 26 22:53:03 IST 2018
+#Mon Nov 05 17:07:17 IST 2018
 1.base=G\:\\ad tutorial\\Hide Message\\app\\build\\intermediates\\assets\\release
 0.baseType=DIRECTORY
 1.baseType=DIRECTORY

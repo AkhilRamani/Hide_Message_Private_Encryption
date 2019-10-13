@@ -68,7 +68,9 @@
         <item name="android:colorAccent">#008dcd</item>
         <item name="android:colorControlHighlight">#008dcd</item>
         <item name="android:colorControlNormal">#008dcd</item>
-    </style></file></source><source path="G:\ad tutorial\Hide Message\app\build\generated\res\rs\debug"/><source path="G:\ad tutorial\Hide Message\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="G:\ad tutorial\Hide Message\app\src\debug\res"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="G:\ad tutorial\Hide Message\app\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="FontFamilyFont"><attr name="fontStyle">
+    </style></file><file path="G:\ad tutorial\Hide Message\app\src\main\res\values\strings.xml" qualifiers=""><string name="Privacy_Policy">
+        <a href="https://theramani.blogspot.com/2018/11/hide-message-privacy-policy.html"> Read Privacy Policy</a>
+    </string></file></source><source path="G:\ad tutorial\Hide Message\app\build\generated\res\rs\debug"/><source path="G:\ad tutorial\Hide Message\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="G:\ad tutorial\Hide Message\app\src\debug\res"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="G:\ad tutorial\Hide Message\app\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="FontFamilyFont"><attr name="fontStyle">
             <enum name="normal" value="0"/>
             <enum name="italic" value="1"/>
         </attr><attr format="reference" name="font"/><attr format="integer" name="fontWeight"/></declare-styleable><declare-styleable name="FontFamily"><attr format="string" name="fontProviderAuthority"/><attr format="string" name="fontProviderPackage"/><attr format="string" name="fontProviderQuery"/><attr format="reference" name="fontProviderCerts"/><attr name="fontProviderFetchStrategy">

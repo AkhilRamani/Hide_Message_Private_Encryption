@@ -5,32 +5,31 @@
     build-mode="COLD"
     density="xxhdpi"
     format="10"
-    ir-eligibility="METHOD_DELETED"
     plugin-version="3.1.2"
-    timestamp="1530032987787"
+    timestamp="1541416099363"
     token="2497256629333292612"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="505" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="162" />
+        duration="0" />
     <task
         name="verifier"
-        duration="90" />
+        duration="0" />
 
     <artifact
-        location="G:\ad tutorial\Hide Message\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-        type="SPLIT" />
+        location="G:\ad tutorial\Hide Message\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1530028971927"
+        timestamp="1541415745460"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="G:\ad tutorial\Hide Message\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
@@ -71,12 +70,11 @@
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="METHOD_DELETED"
-        timestamp="1530032987787"
+        timestamp="1541416099363"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="G:\ad tutorial\Hide Message\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
+            location="G:\ad tutorial\Hide Message\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>

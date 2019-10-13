@@ -51,6 +51,9 @@
     <integer name="cancel_button_image_alpha">127</integer>
     <integer name="google_play_services_version">12451000</integer>
     <integer name="status_bar_notification_info_maxnum">999</integer>
+    <string name="Privacy_Policy">
+        <a href="https://theramani.blogspot.com/2018/11/hide-message-privacy-policy.html"> Read Privacy Policy</a>
+    </string>
     <string name="common_google_play_services_unknown_issue"><ns1:g id="app_name">%1$s</ns1:g> is having trouble with Google Play services. Please try again.</string>
     <string name="s1">Save image</string>
     <string name="s2">"Allow Ad to store image in Picture gallery?"</string>
@@ -61,13 +64,13 @@
     <string name="s7">Test Ad</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <style name="AppTheme" parent="android:style/Theme.Holo.Light">
-        <!-- Customize your theme here. -->
+        
     </style>
     <style name="FullScreen" parent="android:style/Theme.Holo.Light.NoActionBar.Fullscreen">
-        <!-- Customize your theme here. -->
+        
     </style>
     <style name="NoActionBar" parent="android:style/Theme.Holo.Light.NoActionBar">
-        <!-- Customize your theme here. -->
+        
     </style>
     <style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.StatusBar.EventContent"/>
     <style name="TextAppearance.Compat.Notification.Info">

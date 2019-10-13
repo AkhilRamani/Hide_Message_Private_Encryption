@@ -56,12 +56,12 @@
         "source": "G:\\ad tutorial\\Hide Message\\app\\src\\main\\res\\drawable-xhdpi\\ic_vpn_key_white.png"
     },
     {
-        "merged": "G:\\ad tutorial\\Hide Message\\app\\build\\intermediates\\res\\merged\\release\\layout-v16_notification_template_custom_big.xml.flat",
-        "source": "C:\\Users\\Akhil\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e606152146534018cdac7f92685106f9\\res\\layout-v16\\notification_template_custom_big.xml"
-    },
-    {
         "merged": "G:\\ad tutorial\\Hide Message\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
         "source": "C:\\Users\\Akhil\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e606152146534018cdac7f92685106f9\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "G:\\ad tutorial\\Hide Message\\app\\build\\intermediates\\res\\merged\\release\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Akhil\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e606152146534018cdac7f92685106f9\\res\\layout-v16\\notification_template_custom_big.xml"
     },
     {
         "merged": "G:\\ad tutorial\\Hide Message\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
